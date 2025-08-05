@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(232, 232, 138);
+    background-color: blue;
     height: 100%;
     max-width: 960px;
     min-width: 300px;
@@ -45,13 +45,13 @@ img {
 }
 
 article.card {
-  background-color: white;
-  border-radius: 30px;
-  margin-top: 20px;
-  width: 100%;
-  display: flex;
-  flex-flow: row wrap;
-  padding: 12px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
-  transition: 0.3s;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
 }
